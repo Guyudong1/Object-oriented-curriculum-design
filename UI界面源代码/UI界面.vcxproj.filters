@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="头文件\EasyxTools">
+      <UniqueIdentifier>{af199abb-15f7-4d0b-95e1-b340147a1749}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\EasyxTools">
+      <UniqueIdentifier>{3e813e85-c941-4cdb-979d-ec0a3e71b0df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{c90ebfc6-b8cd-4140-9976-0f07cce9fef4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Management.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="configure.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicWidget.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="LineEdit.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="PushButton.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgBox.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="Stu_data.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="Course.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>头文件\EasyxTools</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Management.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicWidget.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="LineEdit.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="PushButton.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="MsgBox.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="Stu_data.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="Course.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>源文件\EasyxTools</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
